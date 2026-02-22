@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="128" height="128" rx="20" fill="url(#g)"/>
+<text x="64" y="55" text-anchor="middle" font-size="40" fill="white">🤔</text>
+<text x="30" y="95" text-anchor="middle" font-size="22" fill="white" opacity="0.9">A</text>
+<text x="64" y="100" text-anchor="middle" font-size="16" fill="white" opacity="0.7">?</text>
+<text x="98" y="95" text-anchor="middle" font-size="22" fill="white" opacity="0.9">B</text>
+</svg>
