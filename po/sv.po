@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the valjaren package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: valjaren\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 17:08+0100\n"
+"PO-Revision-Date: 2026-02-22 16:11+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305216/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/valjaren/main.py:27
+msgid "Food"
+msgstr "Mat"
+
+#: src/valjaren/main.py:28
+msgid "Pizza"
+msgstr "Pizza"
+
+#: src/valjaren/main.py:28
+msgid "Pasta"
+msgstr "Pasta"
+
+#: src/valjaren/main.py:28
+msgid "Pancakes"
+msgstr "Pannkakor"
+
+#: src/valjaren/main.py:28
+msgid "Sandwich"
+msgstr "Macka"
+
+#: src/valjaren/main.py:28
+msgid "Soup"
+msgstr "Soppa"
+
+#: src/valjaren/main.py:29
+msgid "Activity"
+msgstr "Aktivitet"
+
+#: src/valjaren/main.py:30
+msgid "Drawing"
+msgstr "Rita"
+
+#: src/valjaren/main.py:30
+msgid "Reading"
+msgstr "Läsa"
+
+#: src/valjaren/main.py:30
+msgid "Playing"
+msgstr "Leka"
+
+#: src/valjaren/main.py:30
+msgid "Building"
+msgstr "Bygga"
+
+#: src/valjaren/main.py:30
+msgid "Music"
+msgstr "Musik"
+
+#: src/valjaren/main.py:31
+msgid "Clothing"
+msgstr "Kläder"
+
+#: src/valjaren/main.py:32
+msgid "T-shirt"
+msgstr "T-shirt"
+
+#: src/valjaren/main.py:32
+msgid "Sweater"
+msgstr "Tröja"
+
+#: src/valjaren/main.py:32
+msgid "Jacket"
+msgstr "Jacka"
+
+#: src/valjaren/main.py:32
+msgid "Hoodie"
+msgstr "Hoodie"
+
+#: src/valjaren/main.py:33
+msgid "Feelings"
+msgstr "Känslor"
+
+#: src/valjaren/main.py:34
+msgid "Happy"
+msgstr "Glad"
+
+#: src/valjaren/main.py:34
+msgid "Calm"
+msgstr "Lugn"
+
+#: src/valjaren/main.py:34
+msgid "Tired"
+msgstr "Trött"
+
+#: src/valjaren/main.py:34
+msgid "Excited"
+msgstr "Upprymd"
+
+#: src/valjaren/main.py:34
+msgid "Worried"
+msgstr "Oroad"
+
+#: src/valjaren/main.py:66 src/valjaren/main.py:240
+msgid "Väljaren"
+msgstr "Väljaren"
+
+#: src/valjaren/main.py:73
+msgid "About"
+msgstr "Om"
+
+#: src/valjaren/main.py:87
+msgid "What do you want to choose?"
+msgstr "Vad vill du välja?"
+
+#: src/valjaren/main.py:123 src/valjaren/main.py:205
+msgid "Custom"
+msgstr "Anpassad"
+
+#: src/valjaren/main.py:132
+msgid "Choose"
+msgstr "Välj"
+
+#: src/valjaren/main.py:155
+msgid "← Back"
+msgstr "← Bakåt"
+
+#: src/valjaren/main.py:160
+msgid "Choices"
+msgstr "Val"
+
+#: src/valjaren/main.py:174
+msgid "You chose:"
+msgstr "Du valde:"
+
+#: src/valjaren/main.py:185
+msgid "Choose again"
+msgstr "Välj igen"
+
+#: src/valjaren/main.py:192
+msgid "Result"
+msgstr "Resultat"
+
+#: src/valjaren/main.py:205
+msgid "Option A"
+msgstr "Alternativ A"
+
+#: src/valjaren/main.py:205
+msgid "Option B"
+msgstr "Alternativ B"
+
+#: src/valjaren/main.py:246
+msgid "Visual decision helper for children with autism/NPF"
+msgstr "Visuellt beslutsstöd för barn med autism/NPF"
