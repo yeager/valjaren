@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: valjaren\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:08+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-22 16:11+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305216/sv/)\n"
@@ -113,54 +113,62 @@ msgstr "Upprymd"
 msgid "Worried"
 msgstr "Oroad"
 
-#: src/valjaren/main.py:66 src/valjaren/main.py:240
+#: src/valjaren/main.py:66 src/valjaren/main.py:80 src/valjaren/main.py:297
 msgid "Väljaren"
 msgstr "Väljaren"
 
-#: src/valjaren/main.py:73
+#: src/valjaren/main.py:86
 msgid "About"
 msgstr "Om"
 
-#: src/valjaren/main.py:87
+#: src/valjaren/main.py:100
 msgid "What do you want to choose?"
 msgstr "Vad vill du välja?"
 
-#: src/valjaren/main.py:123 src/valjaren/main.py:205
+#: src/valjaren/main.py:136 src/valjaren/main.py:218
 msgid "Custom"
 msgstr "Anpassad"
 
-#: src/valjaren/main.py:132
+#: src/valjaren/main.py:145
 msgid "Choose"
 msgstr "Välj"
 
-#: src/valjaren/main.py:155
+#: src/valjaren/main.py:168
 msgid "← Back"
 msgstr "← Bakåt"
 
-#: src/valjaren/main.py:160
+#: src/valjaren/main.py:173
 msgid "Choices"
 msgstr "Val"
 
-#: src/valjaren/main.py:174
+#: src/valjaren/main.py:187
 msgid "You chose:"
 msgstr "Du valde:"
 
-#: src/valjaren/main.py:185
+#: src/valjaren/main.py:198
 msgid "Choose again"
 msgstr "Välj igen"
 
-#: src/valjaren/main.py:192
+#: src/valjaren/main.py:205
 msgid "Result"
 msgstr "Resultat"
 
-#: src/valjaren/main.py:205
+#: src/valjaren/main.py:218
 msgid "Option A"
 msgstr "Alternativ A"
 
-#: src/valjaren/main.py:205
+#: src/valjaren/main.py:218
 msgid "Option B"
 msgstr "Alternativ B"
 
-#: src/valjaren/main.py:246
+#: src/valjaren/main.py:270
+msgid "🎉 Du hittade hemligheten!"
+msgstr "🎉 Du hittade hemligheten!"
+
+#: src/valjaren/main.py:303
 msgid "Visual decision helper for children with autism/NPF"
 msgstr "Visuellt beslutsstöd för barn med autism/NPF"
+
+#: src/valjaren/main.py:306
+msgid "Thanks to"
+msgstr "Tack till"
