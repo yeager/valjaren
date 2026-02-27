@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Väljaren
 
 Visual decision helper for children with autism/NPF.
